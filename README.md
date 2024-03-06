@@ -12,7 +12,7 @@ Hola Mundo!!, Soy Mario
 <img src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1630094368745-GB8NVYEVVHB2UKX8Y3FU/final+with+character+in+window.gif">
 ---
 
-<h1 align="center">TECHNOLOGY</h1>
+<h1 align="center">TECNOLOGIAS</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
@@ -30,3 +30,14 @@ Hola Mundo!!, Soy Mario
 </p>
 
 ---
+
+<div>
+
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/Pepyn0">
+    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=MarioACo&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Pepyn0">
+    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioACo&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
