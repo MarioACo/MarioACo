@@ -6,4 +6,4 @@ Hola Mundo!!, Soy Mario
 	</a>
 </h1>
 
-<h3 align="center">Soy Ingeniero en Sistemas computacionales, tengo 24 años y , soy un entusiasta del mundo de la programación.</h3>
+<h4 align="center">Soy Ingeniero en Sistemas computacionales, tengo 24 años y , soy un entusiasta del mundo de la programación.</h4>
