@@ -39,3 +39,12 @@ Hola Mundo!!, Soy Mario
     <img align="center" alt="MarioAco" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioACo&theme=neon&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
+
+---
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarioACo}/count.svg" /></p> 
+<br>
+</div>
+---
