@@ -23,6 +23,9 @@ Hola Mundo!!, Soy Mario
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" style="height: 4rem; background-color:white"/>
 	
 </p>
 
