@@ -33,7 +33,7 @@ Hola Mundo!!, Soy Mario
 
 <div align="center">
   <a href="https://github.com/Pepyn0">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=MarioACo&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=MarioACo&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true"" />
   </a>
   <a href="https://github.com/Pepyn0">
     <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioACo&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
