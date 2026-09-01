@@ -6,7 +6,7 @@ Hola Mundo!!, Soy Mario
 	</a>
 </h1>
 
-<h4 align="center">Soy Ingeniero en Sistemas computacionales, tengo 24 años y soy un entusiasta del mundo de la programación.</h4>
+<h4 align="center">Soy Ingeniero en Sistemas computacionales, tengo 27 años y soy un entusiasta del mundo de la programación.</h4>
 
 ---
 <img src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1630094368745-GB8NVYEVVHB2UKX8Y3FU/final+with+character+in+window.gif">
