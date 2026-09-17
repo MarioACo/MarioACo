@@ -10,15 +10,9 @@
 
 <br>
 
-<img
-  src="https://img.shields.io/badge/EXPERIENCE-3%2B_YEARS-00F7FF?style=for-the-badge&labelColor=0D1117"
-/>
-<img
-  src="https://img.shields.io/badge/STATUS-ONLINE-FF00FF?style=for-the-badge&labelColor=0D1117"
-/>
-<img
-  src="https://img.shields.io/badge/LOCATION-MEXICO-00F7FF?style=for-the-badge&labelColor=0D1117"
-/>
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2B_YEARS-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF00FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LOCATION-MEXICO-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -68,31 +62,48 @@ const mario = {
 
   mindset: "Understand the system, not only the code."
 };
-Soy Ingeniero en Sistemas Computacionales y desarrollador de software con más de 3 años de experiencia profesional construyendo, manteniendo y modernizando aplicaciones web y móviles.
-Mi experiencia se ha enfocado principalmente en Front-End, soporte N3 y modernización de sistemas legacy, trabajando en resolución de incidentes críticos, refactorización, actualización de dependencias, integración con servicios backend y mejora de UX/UI.
-Me gusta entender cómo funciona el sistema completo: no solamente la interfaz, sino también los servicios, datos, infraestructura, procesos de build y decisiones de arquitectura que existen detrás de una aplicación.
-> what_i_do
+```
+
+Soy **Ingeniero en Sistemas Computacionales** y desarrollador de software con más de **3 años de experiencia profesional** construyendo, manteniendo y modernizando aplicaciones web y móviles.
+
+Mi experiencia se ha enfocado principalmente en **Front-End**, **soporte N3** y **modernización de sistemas legacy**, trabajando en resolución de incidentes críticos, refactorización, actualización de dependencias, integración con servicios backend y mejora de UX/UI.
+
+Me gusta entender cómo funciona el **sistema completo**: no solamente la interfaz, sino también los servicios, datos, infraestructura, procesos de build y decisiones de arquitectura que existen detrás de una aplicación.
+
+---
+
+# `> what_i_do`
+
+```text
 ╭─────────────────────────────────────────────────────────────╮
-│  [01] FRONT-END DEVELOPMENT                                │
-│       Angular · React · TypeScript · JavaScript             │
 │                                                             │
-│  [02] LEGACY MODERNIZATION                                 │
-│       Refactoring · Technical Debt · Dependency Updates     │
+│  [01] FRONT-END DEVELOPMENT                                 │
+│       Angular · React · TypeScript · JavaScript              │
 │                                                             │
-│  [03] L3 SUPPORT                                           │
-│       Debugging · Production Issues · Critical Incidents    │
+│  [02] LEGACY MODERNIZATION                                  │
+│       Refactoring · Technical Debt · Dependency Updates      │
 │                                                             │
-│  [04] BACKEND INTEGRATION                                  │
-│       REST APIs · Node.js · Laravel · .NET                  │
+│  [03] L3 SUPPORT                                            │
+│       Debugging · Production Issues · Critical Incidents     │
 │                                                             │
-│  [05] UX / UI                                              │
-│       Usability · Interfaces · Optimization                 │
+│  [04] BACKEND INTEGRATION                                   │
+│       REST APIs · Node.js · Laravel · .NET                   │
 │                                                             │
-│  [06] DEVELOPMENT ENVIRONMENTS                             │
-│       Docker · Linux · Git                                  │
+│  [05] UX / UI                                               │
+│       Usability · Interfaces · Optimization                  │
+│                                                             │
+│  [06] DEVELOPMENT ENVIRONMENTS                              │
+│       Docker · Linux · Git                                   │
+│                                                             │
 ╰─────────────────────────────────────────────────────────────╯
-> tech_database
-[ FRONTEND ]
+```
+
+---
+
+# `> tech_database`
+
+### `[ FRONTEND ]`
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="45" alt="Angular"/>
@@ -117,8 +128,10 @@ Me gusta entender cómo funciona el sistema completo: no solamente la interfaz, 
 
 </div>
 
+<br>
 
-[ BACKEND ]
+### `[ BACKEND ]`
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js"/>
@@ -133,8 +146,10 @@ Me gusta entender cómo funciona el sistema completo: no solamente la interfaz, 
 
 </div>
 
+<br>
 
-[ DATA ]
+### `[ DATABASES ]`
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
@@ -143,8 +158,10 @@ Me gusta entender cómo funciona el sistema completo: no solamente la interfaz, 
 
 </div>
 
+<br>
 
-[ MOBILE // BUILD ]
+### `[ MOBILE // BUILD ]`
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio"/>
@@ -155,8 +172,10 @@ Me gusta entender cómo funciona el sistema completo: no solamente la interfaz, 
 
 </div>
 
+<br>
 
-[ DEVOPS // TOOLS ]
+### `[ DEVOPS // TOOLS ]`
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker"/>
@@ -169,7 +188,11 @@ Me gusta entender cómo funciona el sistema completo: no solamente la interfaz, 
 
 </div>
 
-> experience.log
+---
+
+# `> experience.log`
+
+```text
 SYSTEM::CAREER_HISTORY
 
 09/2024 ───────────────────────────────────────────── PRESENT
@@ -220,12 +243,18 @@ SYSTEM::CAREER_HISTORY
 07/2022 ─────────────────────────────────────────── 11/2022
 │
 └── TECNOLÓGICO NACIONAL DE MÉXICO
-
     Professional Internship
 
     └── Web application development
-> field_experience
-Durante mi trayectoria he trabajado tanto en desarrollo de nuevas funcionalidades como en sistemas que necesitan mantenerse operativos, actualizarse o recuperarse.
+```
+
+---
+
+# `> field_experience`
+
+Durante mi trayectoria he trabajado tanto en **desarrollo de nuevas funcionalidades** como en sistemas que necesitan mantenerse operativos, actualizarse o recuperarse.
+
+```text
 [✓] Modernización de aplicaciones legacy
 [✓] Refactorización y reducción de deuda técnica
 [✓] Resolución de incidentes críticos
@@ -235,11 +264,16 @@ Durante mi trayectoria he trabajado tanto en desarrollo de nuevas funcionalidade
 [✓] Mejoras de seguridad
 [✓] Optimización de interfaces y experiencia de usuario
 [✓] Debugging en entornos productivos
-> engineering_principles
+```
+
+---
+
+# `> engineering_principles`
+
+```yaml
 code:
   - maintainable
   - readable
-  - testable
   - secure
 
 approach:
@@ -252,9 +286,17 @@ priority:
   - understand_the_problem
   - understand_the_system
   - then_write_the_code
-No me interesa solamente hacer que algo funcione.
-Me interesa entender por qué funciona, qué dependencias tiene, cómo puede fallar y qué se puede mejorar para que el siguiente desarrollador —incluyéndome a mí dentro de seis meses— pueda entenderlo.
-> currently_exploring
+```
+
+No me interesa solamente hacer que algo **funcione**.
+
+Me interesa entender **por qué funciona**, qué dependencias tiene, cómo puede fallar y qué se puede mejorar para que el siguiente desarrollador —incluyéndome a mí dentro de seis meses— pueda entenderlo.
+
+---
+
+# `> currently_exploring`
+
+```text
 INITIALIZING NEXT SKILL TREE...
 
 [████████████████░░░░] Software Architecture
@@ -264,8 +306,15 @@ INITIALIZING NEXT SKILL TREE...
 [████████████████░░░░] Clean & Maintainable Software
 
 STATUS: LEARNING NEVER STOPS
-> beyond_code
+```
+
+---
+
+# `> beyond_code`
+
 El código es una parte importante de lo que hago, pero no es lo único que me interesa.
+
+```text
 PLAYER_PROFILE
 ────────────────────────────────────────────
 
@@ -276,22 +325,35 @@ PLAYER_PROFILE
 🧠  Learning how things work
 
 ────────────────────────────────────────────
+```
+
 Probablemente estoy haciendo alguna de estas tres cosas:
+
+```bash
 $ coding
 $ learning_something_new
 $ debugging_the_thing_i_just_built
-> contact
+```
+
+---
+
+# `> contact`
+
 <div align="center">
 
-Want to build something interesting?
+### `Want to build something interesting?`
+
 <a href="https://github.com/MarioACo">
   <img src="https://img.shields.io/badge/GITHUB-MarioACo-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
 </div>
 
+---
+
 <div align="center">
 
+```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
 ║           SYSTEM STATUS: ONLINE              ║
@@ -299,7 +361,10 @@ Want to build something interesting?
 ║     BUILD · BREAK · DEBUG · LEARN · REPEAT   ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
-// Thanks for visiting my corner of GitHub.
-See you in the next commit.
-</div>
 ```
+
+### `// Thanks for visiting my corner of GitHub.`
+
+**`See you in the next commit.`**
+
+</div>
